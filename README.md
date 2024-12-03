@@ -9,4 +9,10 @@ galton_tidy_df <- read.csv("C:/Users/jason/OneDrive - The Pennsylvania State Uni
 View(galton_tidy_df)
 ```
 # Results
-After using the syntax above and similar code to display the two data sets, I completed the assignment by evaluating whether or not each data set could be considered "tidy." Portions of each data set from the View() function calls are shown below.
+After using the syntax above and similar code to display the two data sets, I completed the assignment by evaluating whether or not each data set could be considered "tidy." Portions of each data set from the View() function calls are shown below:
+![](galton_family_table_result.png)
+![](armed_forces_table_result.png)
+
+From these table views, I concluded that neither table is "tidy." The Galton family table is not "tidy" since it does not describe one "case" per row (where each "case" is an individual family member) and does not adjust for the "height" values being the shown value plus 60, which is a note included in Galton's original notebook yet omitted from this table. Similarly, the armed forces table is not "tidy" since it does not adequately represent the "case" of a group of soldiers per row.
+
+These findings have helped improve my understanding of what constitutes a "tidy" data set and the changes that would be required to improve the organization of an "non-tidy" table. This development will allow me to identify necessary changes to future data sets I work with to improve their organization and ability to be manipulated: the primary benefits of "tidy" data.
