@@ -1,2 +1,2 @@
-# STAT184-HW-Template
- STAT184 Github Day 1 HW Template
+# Introduction
+This repository contains the code and data files used to complete Activity 04 - Tidying Data for the course STAT 184. The activity assignment required using the R programming language to load and view two different data sets and evaluate whether their organizational structures could be considered "tidy." The two data sets are a table of family member heights from scientist Francis Galton's notebooks on family height relationships and a table of data on the US Armed Forces service branches, organized by branch, soldier gender, pay grade, and amount of soldiers.
