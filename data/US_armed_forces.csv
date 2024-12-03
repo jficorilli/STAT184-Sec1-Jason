@@ -1,0 +1,241 @@
+﻿Branch,Sex,Pay Grade,Value
+Army,Male,E1,"7,909"
+Army,Male,E2,"18,763"
+Army,Male,E3,"38,802"
+Army,Male,E4,"81,278"
+Army,Male,E5,"55,671"
+Army,Male,E6,"50,030"
+Army,Male,E7,"30,367"
+Army,Male,E8,"9,287"
+Army,Male,E9,"2,908"
+Army,Male,W1,"3,817"
+Army,Male,W2,"5,398"
+Army,Male,W3,"2,826"
+Army,Male,W4,"1,532"
+Army,Male,W5,514
+Army,Male,O1,"7,153"
+Army,Male,O2,"10,013"
+Army,Male,O3,"20,694"
+Army,Male,O4,"12,758"
+Army,Male,O5,"6,969"
+Army,Male,O6,"3,084"
+Army,Male,O7,87
+Army,Male,O8,100
+Army,Male,O9,41
+Army,Male,O10,12
+Army,Female,E1,"1,322"
+Army,Female,E2,"3,383"
+Army,Female,E3,"8,169"
+Army,Female,E4,"14,619"
+Army,Female,E5,"11,111"
+Army,Female,E6,"7,432"
+Army,Female,E7,"4,322"
+Army,Female,E8,"1,426"
+Army,Female,E9,413
+Army,Female,W1,399
+Army,Female,W2,653
+Army,Female,W3,316
+Army,Female,W4,149
+Army,Female,W5,47
+Army,Female,O1,"2,358"
+Army,Female,O2,"3,093"
+Army,Female,O3,"5,739"
+Army,Female,O4,"3,002"
+Army,Female,O5,"1,539"
+Army,Female,O6,588
+Army,Female,O7,18
+Army,Female,O8,7
+Army,Female,O9,8
+Army,Female,O10,1
+Navy,Male,E1,"9,051"
+Navy,Male,E2,"10,969"
+Navy,Male,E3,"23,430"
+Navy,Male,E4,"39,241"
+Navy,Male,E5,"57,238"
+Navy,Male,E6,"45,749"
+Navy,Male,E7,"18,026"
+Navy,Male,E8,"6,500"
+Navy,Male,E9,"2,518"
+Navy,Male,W1,30
+Navy,Male,W2,615
+Navy,Male,W3,734
+Navy,Male,W4,416
+Navy,Male,W5,69
+Navy,Male,O1,"5,012"
+Navy,Male,O2,"5,640"
+Navy,Male,O3,"14,825"
+Navy,Male,O4,"8,085"
+Navy,Male,O5,"5,478"
+Navy,Male,O6,"2,613"
+Navy,Male,O7,90
+Navy,Male,O8,67
+Navy,Male,O9,32
+Navy,Male,O10,7
+Navy,Female,E1,"2,681"
+Navy,Female,E2,"3,603"
+Navy,Female,E3,"7,493"
+Navy,Female,E4,"11,855"
+Navy,Female,E5,"16,254"
+Navy,Female,E6,"9,580"
+Navy,Female,E7,"3,098"
+Navy,Female,E8,912
+Navy,Female,E9,323
+Navy,Female,W1,3
+Navy,Female,W2,96
+Navy,Female,W3,102
+Navy,Female,W4,42
+Navy,Female,W5,5
+Navy,Female,O1,"1,545"
+Navy,Female,O2,"1,769"
+Navy,Female,O3,"4,825"
+Navy,Female,O4,"2,217"
+Navy,Female,O5,"1,040"
+Navy,Female,O6,421
+Navy,Female,O7,7
+Navy,Female,O8,3
+Navy,Female,O9,4
+Navy,Female,O10,1
+Marine Corps,Male,E1,"7,233"
+Marine Corps,Male,E2,"14,688"
+Marine Corps,Male,E3,"35,047"
+Marine Corps,Male,E4,"28,946"
+Marine Corps,Male,E5,"21,481"
+Marine Corps,Male,E6,"11,667"
+Marine Corps,Male,E7,"8,191"
+Marine Corps,Male,E8,"3,559"
+Marine Corps,Male,E9,"1,518"
+Marine Corps,Male,W1,483
+Marine Corps,Male,W2,738
+Marine Corps,Male,W3,538
+Marine Corps,Male,W4,265
+Marine Corps,Male,W5,103
+Marine Corps,Male,O1,"2,292"
+Marine Corps,Male,O2,"3,377"
+Marine Corps,Male,O3,"5,298"
+Marine Corps,Male,O4,"3,610"
+Marine Corps,Male,O5,"1,809"
+Marine Corps,Male,O6,660
+Marine Corps,Male,O7,37
+Marine Corps,Male,O8,30
+Marine Corps,Male,O9,18
+Marine Corps,Male,O10,3
+Marine Corps,Female,E1,659
+Marine Corps,Female,E2,"1,604"
+Marine Corps,Female,E3,"3,787"
+Marine Corps,Female,E4,"2,942"
+Marine Corps,Female,E5,"2,723"
+Marine Corps,Female,E6,"1,370"
+Marine Corps,Female,E7,760
+Marine Corps,Female,E8,275
+Marine Corps,Female,E9,83
+Marine Corps,Female,W1,48
+Marine Corps,Female,W2,47
+Marine Corps,Female,W3,32
+Marine Corps,Female,W4,11
+Marine Corps,Female,W5,8
+Marine Corps,Female,O1,370
+Marine Corps,Female,O2,574
+Marine Corps,Female,O3,624
+Marine Corps,Female,O4,333
+Marine Corps,Female,O5,138
+Marine Corps,Female,O6,49
+Marine Corps,Female,O7,2
+Marine Corps,Female,O8,2
+Marine Corps,Female,O9,0
+Marine Corps,Female,O10,0
+Air Force,Male,E1,"6,564"
+Air Force,Male,E2,"6,562"
+Air Force,Male,E3,"34,981"
+Air Force,Male,E4,"52,399"
+Air Force,Male,E5,"42,576"
+Air Force,Male,E6,"32,242"
+Air Force,Male,E7,"18,367"
+Air Force,Male,E8,"3,632"
+Air Force,Male,E9,"1,956"
+Air Force,Male,W1,N/A*
+Air Force,Male,W2,N/A*
+Air Force,Male,W3,N/A*
+Air Force,Male,W4,N/A*
+Air Force,Male,W5,N/A*
+Air Force,Male,O1,"4,867"
+Air Force,Male,O2,"4,993"
+Air Force,Male,O3,"15,532"
+Air Force,Male,O4,"10,045"
+Air Force,Male,O5,"7,459"
+Air Force,Male,O6,"2,658"
+Air Force,Male,O7,91
+Air Force,Male,O8,68
+Air Force,Male,O9,33
+Air Force,Male,O10,12
+Air Force,Female,E1,"1,607"
+Air Force,Female,E2,"1,698"
+Air Force,Female,E3,"9,891"
+Air Force,Female,E4,"15,324"
+Air Force,Female,E5,"11,038"
+Air Force,Female,E6,"6,746"
+Air Force,Female,E7,"4,717"
+Air Force,Female,E8,"1,133"
+Air Force,Female,E9,506
+Air Force,Female,W1,N/A*
+Air Force,Female,W2,N/A*
+Air Force,Female,W3,N/A*
+Air Force,Female,W4,N/A*
+Air Force,Female,W5,N/A*
+Air Force,Female,O1,"1,897"
+Air Force,Female,O2,"1,889"
+Air Force,Female,O3,"5,362"
+Air Force,Female,O4,"3,395"
+Air Force,Female,O5,"1,804"
+Air Force,Female,O6,544
+Air Force,Female,O7,14
+Air Force,Female,O8,8
+Air Force,Female,O9,6
+Air Force,Female,O10,1
+Space Force,Male,E1,177
+Space Force,Male,E2,159
+Space Force,Male,E3,797
+Space Force,Male,E4,598
+Space Force,Male,E5,901
+Space Force,Male,E6,696
+Space Force,Male,E7,517
+Space Force,Male,E8,100
+Space Force,Male,E9,37
+Space Force,Male,W1,N/A*
+Space Force,Male,W2,N/A*
+Space Force,Male,W3,N/A*
+Space Force,Male,W4,N/A*
+Space Force,Male,W5,N/A*
+Space Force,Male,O1,387
+Space Force,Male,O2,409
+Space Force,Male,O3,"1,032"
+Space Force,Male,O4,951
+Space Force,Male,O5,620
+Space Force,Male,O6,203
+Space Force,Male,O7,11
+Space Force,Male,O8,9
+Space Force,Male,O9,4
+Space Force,Male,O10,3
+Space Force,Female,E1,30
+Space Force,Female,E2,33
+Space Force,Female,E3,210
+Space Force,Female,E4,134
+Space Force,Female,E5,165
+Space Force,Female,E6,130
+Space Force,Female,E7,110
+Space Force,Female,E8,38
+Space Force,Female,E9,12
+Space Force,Female,W1,N/A*
+Space Force,Female,W2,N/A*
+Space Force,Female,W3,N/A*
+Space Force,Female,W4,N/A*
+Space Force,Female,W5,N/A*
+Space Force,Female,O1,137
+Space Force,Female,O2,160
+Space Force,Female,O3,246
+Space Force,Female,O4,196
+Space Force,Female,O5,124
+Space Force,Female,O6,33
+Space Force,Female,O7,1
+Space Force,Female,O8,0
+Space Force,Female,O9,1
+Space Force,Female,O10,0
